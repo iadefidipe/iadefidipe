@@ -1,4 +1,3 @@
-# Hello, I am Savio 👋
 
 ![](./github-banner.png)
 
@@ -46,6 +45,7 @@
 ## My Github Status 🦸
 
 ![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iadefidipe&count_private=true&show_icons=true&show_icons=true&theme=cobalt)
+
 
 
 
